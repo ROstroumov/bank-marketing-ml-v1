@@ -1,0 +1,14 @@
+*.ipynb
+*.csv
+*.parquet
+*.zip
+*.tar
+*.tar.gz
+sagemaker/
+data/
+datasets/
+notebooks/
+.env
+venv/
+.venv/
+__pycache__/

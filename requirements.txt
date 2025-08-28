@@ -4,5 +4,5 @@ pydantic==2.9.1
 pandas==2.2.3
 scikit-learn==1.5.2
 joblib==1.5.1
-# If your model REALLY needs XGBoost at inference, uncomment the next line:
+# If (and only if) you need XGBoost at inference, use the CPU-only 2.x:
 # xgboost==2.0.3
