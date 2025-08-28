@@ -4,8 +4,6 @@ __pycache__/
 *.pyd
 *.egg-info/
 *.whl
-
-# local data/models (if any)
 *.csv
 *.tsv
 *.parquet
@@ -16,8 +14,6 @@ __pycache__/
 *.bin
 *.pt
 *.onnx
-
-# local envs / notebooks
 .sagemaker/
 sagemaker/
 notebooks/
